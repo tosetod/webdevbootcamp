@@ -2,4 +2,4 @@
 Repository web developer boot-camp YelpCamp Project
 
 ## Details
-Creating website using mongodb, express and nodejs
+Creating website about campsites using mongodb, express and nodejs
