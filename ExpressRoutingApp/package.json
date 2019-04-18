@@ -1,0 +1,14 @@
+{
+  "name": "expressroutingapp",
+  "version": "1.0.0",
+  "description": "App for exercising routes with Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tosho Todorovski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
